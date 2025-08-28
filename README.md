@@ -1,6 +1,6 @@
 # Hi, I'm Goodness Ojonuba 👋
 
-**AWS Certified Cloud Practitioner** • ALX Backend Learner • Cloud & Systems Enthusiast
+**AWS Certified Cloud Practitioner** • Backend Dev • Cloud & Systems Explorer
 
 ---
 
