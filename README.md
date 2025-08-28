@@ -89,4 +89,4 @@ I work at the intersection of **cloud infrastructure** and **systems design**. I
 
 ---
 
-If you’re working on something interesting in cloud or backend and want to compare notes, **[reach out](mailto:goodnessojonuba@gmail.com)**. Always happy to learn and collaborate.
+If you’re working on something interesting in collaborating, **[reach out](mailto:goodnessojonuba@gmail.com)**. Always happy to learn and collaborate.
