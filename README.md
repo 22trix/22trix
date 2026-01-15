@@ -1,6 +1,6 @@
 # Hi, I'm Goodness Ojonuba 👋
 
-**AWS Certified Cloud Practitioner** • Backend Dev • Cloud & Systems Explorer
+**AWS Certified Solution Architect Associate** • DevOps Engineer • Cloud & Systems Explorer
 
 ---
 
@@ -11,6 +11,11 @@
 
 [![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cbd3ce13-ffb7-44db-bd3f-297454219185/linked_in_profile)
 
+[![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/6ec0af32-fab1-4e0c-b36f-ca4ee83445b8/public_url)
+
+
+
+
 ---
 
 ### 🌍 About Me
@@ -19,8 +24,8 @@ I work at the intersection of **cloud infrastructure** and **systems design**. I
 **Snapshot**
 - 🏷️ **Focus:** AWS, Infrastructure as Code, CI/CD, Containers, Monitoring  
 - 📚 **Learning:** ALX Backend (API design, services, data), deeper AWS services  
-- 🧭 **Goal:** Grow into a cloud + backend role building efficient, secure systems  
-- 🤝 **Open to:** Cloud projects, backend services, system design discussions  
+- 🧭 **Goal:** Grow into a cloud + devOps role building efficient, secure systems  
+- 🤝 **Open to:** Cloud projects, DevOps, system design discussions  
 
 ---
 
@@ -67,9 +72,10 @@ I work at the intersection of **cloud infrastructure** and **systems design**. I
 
 ---
 
-### 🎓 Certifications & Learning
+### 🎓 Certifications
+- **AWS Certified Solutions Architect Associate** — [verify](https://www.credly.com/badges/6ec0af32-fab1-4e0c-b36f-ca4ee83445b8/public_url)   
 - **AWS Certified Cloud Practitioner** — [verify](https://www.credly.com/badges/cbd3ce13-ffb7-44db-bd3f-297454219185/linked_in_profile)  
-- **ALX Backend Learner** — Topics: HTTP APIs, auth, data, testing  
+
 
 ---
 
