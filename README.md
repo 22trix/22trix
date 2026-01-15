@@ -22,8 +22,7 @@
 I work at the intersection of **cloud infrastructure** and **systems design**. I enjoy turning ideas into *reliable, observable, and scalable* services. Optimization and system design excite me, so I focus on IaC, container orchestration, and continuous delivery.
 
 **Snapshot**
-- 🏷️ **Focus:** AWS, Infrastructure as Code, CI/CD, Containers, Monitoring  
-- 📚 **Learning:** ALX Backend (API design, services, data), deeper AWS services  
+- 🏷️ **Focus:** AWS, Infrastructure as Code, CI/CD, Containers, Monitoring   
 - 🧭 **Goal:** Grow into a cloud + devOps role building efficient, secure systems  
 - 🤝 **Open to:** Cloud projects, DevOps, system design discussions  
 
@@ -81,9 +80,10 @@ I work at the intersection of **cloud infrastructure** and **systems design**. I
 
 ### 📈 GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=22trix)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=22trix&show_icons=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=22trix)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22trix&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22trix&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=22trix)
 
 ---
 
