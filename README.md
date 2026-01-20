@@ -78,13 +78,6 @@ I work at the intersection of **cloud infrastructure** and **systems design**. I
 
 ---
 
-### 📈 GitHub Stats
-
-![](https://raw.githubusercontent.com/22trix/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/22trix/github-stats/master/generated/languages.svg)
-
----
-
 ### 📫 Contact
 - Email: [goodnessojonuba@gmail.com](mailto:goodnessojonuba@gmail.com)  
 - LinkedIn: [linkedin.com/in/sy-goodness](https://www.linkedin.com/in/sy-goodness/)  
